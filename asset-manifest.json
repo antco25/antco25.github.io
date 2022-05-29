@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7eb6d912.chunk.css",
+    "main.js": "/static/js/main.009db7ec.chunk.js",
+    "main.js.map": "/static/js/main.009db7ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d124481c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d124481c.js.map",
+    "static/js/2.6c43a9ad.chunk.js": "/static/js/2.6c43a9ad.chunk.js",
+    "static/js/2.6c43a9ad.chunk.js.map": "/static/js/2.6c43a9ad.chunk.js.map",
+    "static/js/3.5df6a74e.chunk.js": "/static/js/3.5df6a74e.chunk.js",
+    "static/js/3.5df6a74e.chunk.js.map": "/static/js/3.5df6a74e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7eb6d912.chunk.css.map": "/static/css/main.7eb6d912.chunk.css.map",
+    "static/js/2.6c43a9ad.chunk.js.LICENSE.txt": "/static/js/2.6c43a9ad.chunk.js.LICENSE.txt",
+    "static/media/country-1.4fbae120.png": "/static/media/country-1.4fbae120.png",
+    "static/media/education.2d7ad6e9.svg": "/static/media/education.2d7ad6e9.svg",
+    "static/media/email.05898043.svg": "/static/media/email.05898043.svg",
+    "static/media/feedback-1.b462ee1b.png": "/static/media/feedback-1.b462ee1b.png",
+    "static/media/frontend.b1c4e56b.svg": "/static/media/frontend.b1c4e56b.svg",
+    "static/media/github.ea150931.svg": "/static/media/github.ea150931.svg",
+    "static/media/hero.60addf6e.png": "/static/media/hero.60addf6e.png",
+    "static/media/interest.24bbfab9.svg": "/static/media/interest.24bbfab9.svg",
+    "static/media/linkedin.6859ade5.svg": "/static/media/linkedin.6859ade5.svg",
+    "static/media/location.a60b1d20.svg": "/static/media/location.a60b1d20.svg",
+    "static/media/loop-1.6885daa1.png": "/static/media/loop-1.6885daa1.png",
+    "static/media/moon.3b179a19.svg": "/static/media/moon.3b179a19.svg",
+    "static/media/myteam-1.2f81f829.png": "/static/media/myteam-1.2f81f829.png",
+    "static/media/programming.a39425fe.svg": "/static/media/programming.a39425fe.svg",
+    "static/media/shortly-1.f5ef371d.png": "/static/media/shortly-1.f5ef371d.png",
+    "static/media/sneakers-1.b4984124.png": "/static/media/sneakers-1.b4984124.png",
+    "static/media/work.e3629633.svg": "/static/media/work.e3629633.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d124481c.js",
+    "static/js/2.6c43a9ad.chunk.js",
+    "static/css/main.7eb6d912.chunk.css",
+    "static/js/main.009db7ec.chunk.js"
+  ]
+}
